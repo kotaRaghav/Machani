@@ -23,4 +23,4 @@ jobs:
       run: javac mach.java
 
     - name: Ru Java Program
-      run: java maich
+      run: java mach
